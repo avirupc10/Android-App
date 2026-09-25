@@ -1,0 +1,6 @@
+{
+  "name": "Aamchi Mumbai",
+  "description": "Comprehensive Mumbai newcomer transit and accommodation guide featuring real-time local train & BEST bus timetables, budget PG & stay finder, metro maps, transit pass price comparison, and Google Maps route navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
